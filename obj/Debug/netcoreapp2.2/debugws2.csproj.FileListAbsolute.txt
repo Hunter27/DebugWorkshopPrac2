@@ -9,3 +9,14 @@
 /home/derik/workshops/debugws2/obj/Debug/netcoreapp2.2/debugws2.AssemblyInfo.cs
 /home/derik/workshops/debugws2/obj/Debug/netcoreapp2.2/debugws2.dll
 /home/derik/workshops/debugws2/obj/Debug/netcoreapp2.2/debugws2.pdb
+C:\Users\Nthokozo Motsumi\Documents\WorkshopDebug\DebugWorkshopPrac2\bin\Debug\netcoreapp2.2\debugws2.deps.json
+C:\Users\Nthokozo Motsumi\Documents\WorkshopDebug\DebugWorkshopPrac2\bin\Debug\netcoreapp2.2\debugws2.runtimeconfig.json
+C:\Users\Nthokozo Motsumi\Documents\WorkshopDebug\DebugWorkshopPrac2\bin\Debug\netcoreapp2.2\debugws2.runtimeconfig.dev.json
+C:\Users\Nthokozo Motsumi\Documents\WorkshopDebug\DebugWorkshopPrac2\bin\Debug\netcoreapp2.2\debugws2.dll
+C:\Users\Nthokozo Motsumi\Documents\WorkshopDebug\DebugWorkshopPrac2\bin\Debug\netcoreapp2.2\debugws2.pdb
+C:\Users\Nthokozo Motsumi\Documents\WorkshopDebug\DebugWorkshopPrac2\obj\Debug\netcoreapp2.2\debugws2.csproj.CoreCompileInputs.cache
+C:\Users\Nthokozo Motsumi\Documents\WorkshopDebug\DebugWorkshopPrac2\obj\Debug\netcoreapp2.2\debugws2.AssemblyInfoInputs.cache
+C:\Users\Nthokozo Motsumi\Documents\WorkshopDebug\DebugWorkshopPrac2\obj\Debug\netcoreapp2.2\debugws2.AssemblyInfo.cs
+C:\Users\Nthokozo Motsumi\Documents\WorkshopDebug\DebugWorkshopPrac2\obj\Debug\netcoreapp2.2\debugws2.dll
+C:\Users\Nthokozo Motsumi\Documents\WorkshopDebug\DebugWorkshopPrac2\obj\Debug\netcoreapp2.2\debugws2.pdb
+C:\Users\Nthokozo Motsumi\Documents\WorkshopDebug\DebugWorkshopPrac2\obj\Debug\netcoreapp2.2\debugws2.csprojAssemblyReference.cache

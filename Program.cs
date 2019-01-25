@@ -1,12 +1,13 @@
 ﻿using System;
 using System.IO;
 using System.Globalization;
+using System.Collections.Generic;
 
 namespace debugws2
 {
   class Program
   {
-    private long sum()
+    public long sum()
     {
       string[] data = File.ReadAllLines("data");
       long total = 0;
@@ -19,9 +20,20 @@ namespace debugws2
       return total;
     }
 
-    private int cnv(string val)
-    {
-      Int32.TryParse(val, NumberStyles.HexNumber, CultureInfo.InvariantCulture, out int value);
+        public int cnv(string val)
+        {
+
+            val.Replace('G', 'F');
+
+            char[] c = val.ToCharArray();
+            if (val.Contains("G"))
+            {
+                c[4] = 'F';
+            }
+
+
+            string v = new string(c);
+           Int32.TryParse(v, NumberStyles.HexNumber, CultureInfo.InvariantCulture, out int value);
 
       return value;
     }
